@@ -17,6 +17,7 @@
 # .env.local
 # /node_modules
 # .env.development.local
+temp_auto_push.bat
 # .env.test.local
 # .env.production.local
 
@@ -37,3 +38,4 @@ yarn-debug.log*
 yarn-error.log*
 /build
 
+.gitignore
